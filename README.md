@@ -105,3 +105,5 @@ In an Angular application, we might have a LoggerService that logs information t
 Components can now inject the Logger interface, making them independent of the specific implementation (e.g., LoggerService). This allows us to easily switch to a different logging mechanism (e.g., a file logger) without modifying the components.
 
 SOLID principles are fundamental to building robust and maintainable Angular applications. By applying these principles, we can create code that is easier to understand, modify, extend, and test. This leads to more efficient development processes and ultimately, better software.
+
+HASHNODE LINK: [https://paulinesoler.hashnode.dev/activity-25-solid-principles-in-angular](url)
