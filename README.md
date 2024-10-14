@@ -1,4 +1,4 @@
-# ACTIVITY-25
+Activity 25: SOLID PRINCIPLES in Angular
 SOLID Principles in Angular: Building Maintainable and Scalable Applications
 
 SOLID principles are a set of design principles that promote maintainable, scalable, and flexible software. They guide us in writing clean, modular code, making it easier to understand, modify, and extend over time. This article explores each SOLID principle and demonstrates its application in Angular development.
